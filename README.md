@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🥅 2021 Goals: Contribute more to Open Source projects and get an internship
-- ⚡ Fun fact: I love to play guitar / basketball
+- 🌱 Full Stack Web Developer
+- 🥅 2023 Goals: Get jacked in both dev and IRL
+- ⚡ Fun fact: Love to create Merge Conflicts 🤥
 
 
 ### Connect with me:
