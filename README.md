@@ -6,12 +6,6 @@
 - 🥅 2023 Goals: Get jacked in both dev and IRL
 - ⚡ Fun fact: Love to create Merge Conflicts 🤥
 
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -30,7 +24,3 @@
 <br />
 <br />
 
----
-
-[instagram]: https://www.instagram.com/ayushmukho/
-[linkedin]: https://www.linkedin.com/in/ayush-mukhopadhyay-3b1b641b0/
