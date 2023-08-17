@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Mukhopadhyay | SDE-1@SWYM</h1>
 <h3 align="center">Passionate about carving code and crafting solutions, I'm always on the hunt for challenges that push the boundaries of what's possible in web development. With a heart set on not just growth but meaningful evolution, I aim to infuse my skills, knowledge and experience into projects that resonate and create impact. Learn and create things that make a difference? I'm in.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmukho&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmukho" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmukho" alt="ayushmukho" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ayushmukhopadh2" target="blank"><img src="https://img.shields.io/twitter/follow/ayushmukhopadh2?logo=twitter&style=for-the-badge" alt="ayushmukhopadh2" /></a> </p>
 
 - 🔭 I’m currently working on **Feedback**
@@ -14,10 +10,6 @@
 - 📫 How to reach me **ayushmukho@gmail.com**
 
 - ⚡ Fun fact **I am him**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
